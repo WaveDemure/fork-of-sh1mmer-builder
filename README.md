@@ -40,7 +40,7 @@ Note that WSL doesn't work for some people, and if you have trouble building it 
 **WEB BUILDER DOES NOT INCLUDE PAYLOADS!! YOU MUST BUILD IT MANUALLY FROM SOURCE FOR PAYLOADS**
 
 ```
-git clone https://github.com/MercuryWorkshop/sh1mmer
+git clone https://github.com/WaveDemure/fork-of-sh1mmer-builder
 cd sh1mmer/wax
 wget https://dl.sh1mmer.me/build-tools/chromebrew/chromebrew.tar.gz
 sudo bash wax.sh /path/to/the/shim/you/downloaded.bin
@@ -62,7 +62,7 @@ Type out all of these commands in the terminal. You need to be on linux and have
 Note that the legacy shim **will work on all boards**. The legacy version of wax now supports nano (shrunken) shims!
 
 ```
-git clone https://github.com/MercuryWorkshop/sh1mmer
+git clone https://github.com/WaveDemure/fork-of-sh1mmer-builder
 cd sh1mmer/wax
 sudo bash wax_legacy.sh
 ```
